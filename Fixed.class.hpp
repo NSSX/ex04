@@ -48,5 +48,5 @@ private:
 };
 
 std::ostream & operator<<(std::ostream & o, Fixed const & rhs);
-Fixed	inOperation(char **expr);
+Fixed	inOperation(char **calcul);
 #endif
